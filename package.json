@@ -1,0 +1,32 @@
+{
+  "name": "wallpaper-macos",
+  "version": "1.0.0",
+  "description": "Set wallpaper on macOS, natively using nodobjc",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-james-watson/wallpaper-macos.git"
+  },
+  "keywords": [
+    "macOS",
+    "OSX",
+    "wallpaper",
+    "desktop",
+    "background",
+    "native"
+  ],
+  "author": "Tom Watson <tom@tomjwatson.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tom-james-watson/wallpaper-macos/issues"
+  },
+  "homepage": "https://github.com/tom-james-watson/wallpaper-macos#readme",
+  "dependencies": {
+    "macos-space-change": "^1.0.0",
+    "nodobjc": "^2.1.0"
+  },
+  "devDependencies": {}
+}
